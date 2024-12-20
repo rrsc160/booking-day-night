@@ -126,7 +126,8 @@
   background: none;
   border: none;
   font-size: 1.5rem;
-  color: inherit;
+/*   color: inherit; */
+  color: rgb(221, 191, 19);
   cursor: pointer;
 }
 
