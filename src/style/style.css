@@ -17,16 +17,15 @@
 }
 
 #chart-container {
-  width: 800px;
-  height: 600px;
+  width: 755px;
+  height: 566px;
   flex-shrink: 0;
   background-color: #1c611c;
-  border: 2px solid #ddd;
+  border: 2px solid red;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   position: sticky;
-
-  top: 20px;
+  top: 5px;
 }
 
 .selected-seats {
@@ -94,7 +93,7 @@
   color: white;
   border: none;
   font-size: 11px;
-  margin-left: 66px;
+  margin-left: 80px;
   border-radius: 17px;
   cursor: pointer;
   transition: background-color 0.3s ease;
